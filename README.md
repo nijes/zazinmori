@@ -31,8 +31,8 @@
 |  10  |    독취사 합격자소서    |  [독취사(네이버 카페)][독취사]   | CSV/CRAWLING |
 |  11  | 자소설 채용공고/자소서 항목 |      [자소설][자소설]       | CSV/CRAWLING |
 |  12  | 빅카인즈 기업별 주요 뉴스  |     [빅카인즈][빅카인즈]      | CSV/CRAWLING |
-<br><br>
 
+<br><br>
 ## 아키텍처 및 기술 스택
 #### 아키텍처 정의서
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F5PWjI%2FbtrODPjpnPt%2Fc7fzBmj5fjICOxVCwytwi0%2Fimg.png">
